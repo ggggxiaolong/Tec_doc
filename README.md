@@ -11,7 +11,7 @@
 * 使用的第三方库
  * 不可变对象
  * 网络框架（okhttp， retrofit）
- * Rxjava
+ * Rxjava（生命周期）
  * 依赖管理Dagger
  * Kotlin
  * 日志，图片
