@@ -3,6 +3,7 @@
 * 用户ssh配置
 * 创建项目
 * 分支（创建，合并）
+* Tag
 * issues(提交，处理)
 * wiki文档（markdown）
 
