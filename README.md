@@ -10,7 +10,7 @@
 # Demo项目
 
 * 使用的第三方库
- * 不可变对象
+ * 不可变对象（Gson解析）
  * 网络框架（okhttp， retrofit）
  * Rxjava（生命周期, 线程切换，流式调用）
  * 依赖管理Dagger
